@@ -1,7 +1,7 @@
 # 🦷 Dental Caries Symptom Checker Chatbot
 
 An AI-powered **healthcare chatbot** built using **Chatbase**.  
-It provides basic guidance on **dental caries symptoms and prevention**.
+It provides basic guidance on **dental caries symptoms and prevention** for educational purposes.
 
 ---
 
@@ -15,6 +15,7 @@ It provides basic guidance on **dental caries symptoms and prevention**.
 
 ---
 
-### 👩‍⚕️ Author
+### 👩‍⚕️ Creator
 Created by **Dr. Lilly Priya**
+
 
